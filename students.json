@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "imie": "Anna",
+      "nazwisko": "Kowalska",
+      "wiek": 21,
+      "email": "anna.kowalska@student.pl",
+      "kierunek": "Informatyka"
+    },
+    {
+      "id": 2,
+      "imie": "Jan",
+      "nazwisko": "Nowak",
+      "wiek": 22,
+      "email": "jan.nowak@student.pl",
+      "kierunek": "Matematyka"
+    },
+    {
+      "id": 3,
+      "imie": "Piotr",
+      "nazwisko": "Zieliński",
+      "wiek": 20,
+      "email": "piotr.zielinski@student.pl",
+      "kierunek": "Ekonomia"
+    }
+  ]
+  
